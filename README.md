@@ -13,6 +13,8 @@ Notes on Mobi sprite
 ===================
 
 * Mobi's palette is located at: C06, D06, C07, D07, EC0, ED0, FC0, FD0, E08, E09, E0A, E0B, E0C
+* Ugly Mobi palette: 90F
+*
 * Seeing Mobi within inp:
   -- frame 36,865  then start skipping cpu cycles through the following:
      00C7
