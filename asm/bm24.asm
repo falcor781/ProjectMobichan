@@ -24672,7 +24672,7 @@
 
 6881 f0        ret     p
 
-6882 0f        rrca    
+6882 0f        rrca    					// start of mobi function?
 6883 0f        rrca    
 6884 0f        rrca    
 6885 ff        rst     38h
@@ -24691,11 +24691,11 @@
 6893 00        nop     
 6894 00        nop     
 6895 00        nop     
-6896 01090f    ld      bc,0f09h
+6896 01090f    ld      bc,0f09h			// Looks like load ugly moby into bc, treating bc as 16-bit register		(start mobi function?)
 6899 0f        rrca    
-689a 4b        ld      c,e
+689a 4b        ld      c,e				// Copy 8-bit contents of e into c (why?)
 689b b4        or      h
-689c f0        ret     p
+689c f0        ret     p				// return to whatever called this and reset sign flag
 
 689d f0        ret     p
 

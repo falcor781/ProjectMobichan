@@ -1,6 +1,8 @@
 # ProjectMobichan
 A fruitless endeavor
 
+http://sgate.emt.bme.hu/patai/publications/z80guide/part1.html
+
 ====================
 Notes on INP file
 ====================
