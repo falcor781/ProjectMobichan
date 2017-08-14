@@ -1,7 +1,8 @@
 # ProjectMobichan
 A fruitless endeavor
-
-http://sgate.emt.bme.hu/patai/publications/z80guide/part1.html
+[Capcom Commando Hardware intro  ] http://www.system16.com/hardware.php?id=788
+[								 ] http://sgate.emt.bme.hu/patai/publications/z80guide/part1.html
+[how I figured out tilemap memory] http://goshtastic.blogspot.com/2016/11/making-rom-hack-of-old-arcade-game.html
 
 ====================
 Notes on INP file
@@ -14,8 +15,8 @@ Notes on INP file
 Notes on Mobi sprite
 ===================
 
-* Mobi's palette is located at: C06, D06, C07, D07, EC0, ED0, FC0, FD0, E08, E09, E0A, E0B, E0C
-* Ugly Mobi palette: 90F
+* Mobi is on tilemap 3
+*
 *
 * Seeing Mobi within inp:
   -- frame 36,865  then start skipping cpu cycles through the following:
