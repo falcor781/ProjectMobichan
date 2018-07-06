@@ -1,0 +1,6 @@
+Level		Kill time p1 / p2	End time p1 / p2 (end of stage)	score p1 / p2		Life			Evidence
+======================================================================================================================================
+Level 1:	27 / 24			24 / 21				22300 / 61000 = 80400	p2 just turned red	(1) our video
+		24			22				80400			p1 orange		(2) https://www.youtube.com/watch?v=d8Ydcdx0KJk
+
+Level 2:	kill at 33 seconds	(29 on timer at end of stage)	234670			p1 orange		(1) https://www.youtube.com/watch?v=FbUN5ITWQQo
